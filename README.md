@@ -1,8 +1,8 @@
 Harshitha Y J - Portfolio Website<br>
 Welcome to my personal portfolio website!
-This responsive and interactive portfolio showcases my skills, projects, achievements, and volunteer work as an Information Science student passionate about Software Development, IoT, Blockchain, and UI/UX Design.<br>
+This responsive and interactive portfolio showcases my skills, projects, achievements, and volunteer work as an Information Science student passionate about Software Development, IoT, Blockchain, and UI/UX Design.
 
-Features
+🌟 Features
 Smooth and responsive design across devices
 
 Dynamic navigation bar with scroll animations
@@ -15,9 +15,9 @@ Typing animation effect in the hero section
 
 Scroll-to-top button for enhanced UX
 
-Form integration with Web3Forms for easy contact submissions<br>
+Form integration with Web3Forms for easy contact submissions
 
- Technologies Used
+🚀 Technologies Used
 HTML5 - Structuring the content
 
 CSS3 - Styling with custom themes and animations
@@ -30,9 +30,9 @@ Google Fonts (Poppins) - Clean typography
 
 Web3Forms - Form submission handling
 
-Responsive Design - Fully mobile and tablet friendly<br>
+Responsive Design - Fully mobile and tablet friendly
 
-Sections Included
+📂 Sections Included
 Home – Introduction and call-to-action
 
 About Me – My background and passions
@@ -49,6 +49,8 @@ Education – Academic journey
 
 Volunteer Work – Giving back to the community
 
-Contact – Easily reach out to me!<br>
+Contact – Easily reach out to me!
 
 🖥️ Live Preview
+
+https://harshitha-yj.github.io/Portfolio/
